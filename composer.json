@@ -1,10 +1,10 @@
 {
-    "name": "eaglewu/swoole-ide-helper",
-    "description": "Swoole 在IDE下自动识别类、函数、宏，自动补全函数名",
+    "name": "lanzhi/swoole-ide-helper",
+    "description": "在 eaglewu/swoole-ide-helper 基础上打了tag，方便 composer 使用",
     "authors": [
         {
-            "name": "eagle",
-            "email": "eaglewudi@gmail.com"
+            "name": "lanzhi",
+            "email": "310929334@qq.com"
         }
     ]
 }
